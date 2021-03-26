@@ -2,5 +2,6 @@
 "name": "Crowdano CROWDfunding Pool",
 "description": "Crowdano Crowdfunding Pool. 20% of profits donated to charity, 10% goes towards Crowdano development.",
 "ticker": "CROWD",
-"homepage": "https://crowdanopool.com"
+"homepage": "https://crowdanopool.com",
+"extended": "https://git.io/JYOtJ"
 }
