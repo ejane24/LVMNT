@@ -1,7 +1,6 @@
 {
-"name": "Crowdano CROWDfunding Pool",
-"description": "Crowdano Crowdfunding Pool. 20% of profits donated to charity, 10% goes towards Crowdano development.",
+"name": "Crowdano Crowdfunding",
+"description": "Alonzo white pool by Crowdano.",
 "ticker": "CROWD",
-"homepage": "https://crowdano.io",
-"extended": "https://git.io/JYOtJ"
+"homepage": "https://crowdano.io"
 }
